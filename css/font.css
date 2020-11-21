@@ -16,3 +16,21 @@
         /* url('../font/Gilroy-ExtraBold.otf') format('opentype'); */
 		font-weight: regular;
 }
+@font-face{
+    font-family: 'Agency FB';
+	src: 
+		local('Agency FB'),
+		local('Agency FB'),
+        url('../font/agency-fb_[allfont.net].ttf') format('truetype');
+        /* url('../font/Gilroy-ExtraBold.otf') format('opentype'); */
+		font-weight: regular;
+}
+@font-face{
+    font-family: 'Edwardian Script ITC';
+	src: 
+		local('Edwardian Script ITC'),
+		local('Edwardian Script ITC'),
+        url('../font/edwardian.TTF') format('truetype');
+        /* url('../font/Gilroy-ExtraBold.otf') format('opentype'); */
+		font-weight: regular;
+}
